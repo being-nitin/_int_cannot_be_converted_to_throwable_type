@@ -1,5 +1,5 @@
 package com.codechef;
-
+import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
@@ -22,12 +22,8 @@ public class Main {
                ^
     required: class
     found:    int
-    2 errors
+    2 errors are there:
  */
-
-
-
-
 
     }
 }
